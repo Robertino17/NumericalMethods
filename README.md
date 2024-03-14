@@ -7,3 +7,5 @@ That function solves a system of linear equations ***AX = B*** by reducing the m
 
 **Returns:**
 >X: np.array. Vector, containing the solution. <br />
+
+# A matrix with the 3 diagonals
