@@ -6,4 +6,4 @@ That function solves a system of linear equations ***AX = B*** by reducing the m
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;B: np.array <br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Vector, containing the right part. <br />
 **Returns:**  X: np.array <br />
-&emsp;&emsp;&emsp;Vector, containing the solution. <br />
+&emsp;&emsp;&emsp;&emsp;&emsp;Vector, containing the solution. <br />
